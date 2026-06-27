@@ -1,9 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/JiaYee/sierra-releases/releases/download/v1.0.0/sierra-v2-1.0.0.apk",
-  "sha256": "",
-  "minSupportedVersionCode": 1,
-  "notes": "Initial release.",
-  "mandatory": false
+    "versionCode":  202,
+    "versionName":  "2.0.2",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.2/sierra-v2-2.0.2.apk",
+    "sha256":  "6e0559783135b668c83ceef925142285f04b955fab6cc2f7641b21cb2a426b21",
+    "minSupportedVersionCode":  1,
+    "notes":  "Release 2.0.2",
+    "mandatory":  false
 }
