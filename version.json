@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/JiaYee/sierra-releases/releases/download/v1.0.0/sierra-v2-1.0.0.apk",
+  "sha256": "",
+  "minSupportedVersionCode": 1,
+  "notes": "Initial release.",
+  "mandatory": false
+}

@@ -1,0 +1,4 @@
+# Large binaries — upload as GitHub Release assets only
+*.apk
+*.aab
+build/
