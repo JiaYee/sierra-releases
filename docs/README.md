@@ -27,6 +27,7 @@ Publishes Android APK updates for **sierra-v2** devices. The app checks a manife
 | Repo | Role |
 |------|------|
 | [sierra-v2](../sierra-v2) | App source — builds APK, consumes OTA manifest |
+| [sierra](../sierra) | Legacy Ionic app — Firestore schema reference for v2 port |
 
 ## Extended docs (in sierra-v2)
 
