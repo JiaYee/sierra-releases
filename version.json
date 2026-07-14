@@ -1,9 +1,9 @@
 {
-    "versionCode":  203,
-    "versionName":  "2.0.3",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.3/sierra-v2-2.0.3.apk",
-    "sha256":  "77e821034b5e8a624a3d544028ff6c33b608a899d0b9deb3d1f47d83076c1b71",
+    "versionCode":  204,
+    "versionName":  "2.0.4",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.4/sierra-v2-2.0.4.apk",
+    "sha256":  "798a1af25ee8c0435b35636f87a4c3796d6f58d301ccbdb21bf6458f3612b17b",
     "minSupportedVersionCode":  1,
-    "notes":  "Remove transaction list search bar.",
+    "notes":  "Add preset expense descriptions to claim sheet.",
     "mandatory":  false
 }
