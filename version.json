@@ -1,9 +1,9 @@
 {
-    "versionCode":  205,
-    "versionName":  "2.0.5",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.5/sierra-v2-2.0.5.apk",
-    "sha256":  "2b4b525d6b217d9a5027c3c0ed620866f57a25f18663f4cc96f3e086c2648132",
+    "versionCode":  206,
+    "versionName":  "2.0.6",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.6/sierra-v2-2.0.6.apk",
+    "sha256":  "2911594d19297b9877fd682cb334693334ed2b9e4d1d87ebdd89a920b56edbc1",
     "minSupportedVersionCode":  1,
-    "notes":  "Update app icons and splash assets.",
+    "notes":  "Update Android adaptive icon assets.",
     "mandatory":  false
 }
