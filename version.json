@@ -1,9 +1,9 @@
 {
-    "versionCode":  204,
-    "versionName":  "2.0.4",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.4/sierra-v2-2.0.4.apk",
-    "sha256":  "798a1af25ee8c0435b35636f87a4c3796d6f58d301ccbdb21bf6458f3612b17b",
+    "versionCode":  205,
+    "versionName":  "2.0.5",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.5/sierra-v2-2.0.5.apk",
+    "sha256":  "2b4b525d6b217d9a5027c3c0ed620866f57a25f18663f4cc96f3e086c2648132",
     "minSupportedVersionCode":  1,
-    "notes":  "Add preset expense descriptions to claim sheet.",
+    "notes":  "Update app icons and splash assets.",
     "mandatory":  false
 }
