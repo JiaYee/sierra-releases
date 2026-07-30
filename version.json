@@ -1,9 +1,9 @@
 {
-    "versionCode":  208,
-    "versionName":  "2.0.8",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.8/sierra-v2-2.0.8.apk",
-    "sha256":  "9a2c303ff3ddece30fcca05324ea94ff23f331ff5c2ba5432f127f35558868e3",
+    "versionCode":  209,
+    "versionName":  "2.0.9",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.9/sierra-v2-2.0.9.apk",
+    "sha256":  "087aca4a1f9a4cf81f51498998accdb1c52e621ffbb0170b37e46ed6b3bab759",
     "minSupportedVersionCode":  1,
-    "notes":  "Add receipt preview with Confirm and Retake after scanning for claims.",
+    "notes":  "Fix blank receipt preview after scan by using explicit image layout.",
     "mandatory":  false
 }
