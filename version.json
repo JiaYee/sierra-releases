@@ -1,9 +1,9 @@
 {
-    "versionCode":  207,
-    "versionName":  "2.0.7",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.7/sierra-v2-2.0.7.apk",
-    "sha256":  "ef5a09148d0eba8062df23804eb66cb250fde02eaeb4bb1acd4270857143665d",
+    "versionCode":  208,
+    "versionName":  "2.0.8",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.8/sierra-v2-2.0.8.apk",
+    "sha256":  "9a2c303ff3ddece30fcca05324ea94ff23f331ff5c2ba5432f127f35558868e3",
     "minSupportedVersionCode":  1,
-    "notes":  "Add Scan and claim: in-app camera capture with compressed receipt upload for claims.",
+    "notes":  "Add receipt preview with Confirm and Retake after scanning for claims.",
     "mandatory":  false
 }
