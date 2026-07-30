@@ -1,9 +1,9 @@
 {
-    "versionCode":  206,
-    "versionName":  "2.0.6",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.6/sierra-v2-2.0.6.apk",
-    "sha256":  "2911594d19297b9877fd682cb334693334ed2b9e4d1d87ebdd89a920b56edbc1",
+    "versionCode":  207,
+    "versionName":  "2.0.7",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.7/sierra-v2-2.0.7.apk",
+    "sha256":  "ef5a09148d0eba8062df23804eb66cb250fde02eaeb4bb1acd4270857143665d",
     "minSupportedVersionCode":  1,
-    "notes":  "Update Android adaptive icon assets.",
+    "notes":  "Add Scan and claim: in-app camera capture with compressed receipt upload for claims.",
     "mandatory":  false
 }
