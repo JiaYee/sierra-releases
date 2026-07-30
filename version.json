@@ -1,9 +1,9 @@
 {
-    "versionCode":  209,
-    "versionName":  "2.0.9",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.9/sierra-v2-2.0.9.apk",
-    "sha256":  "087aca4a1f9a4cf81f51498998accdb1c52e621ffbb0170b37e46ed6b3bab759",
+    "versionCode":  210,
+    "versionName":  "2.0.10",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.10/sierra-v2-2.0.10.apk",
+    "sha256":  "d070d61e19817b90e134c1e20d7857428c74c85eec16814f75acaf2ae8a96b40",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix blank receipt preview after scan by using explicit image layout.",
+    "notes":  "Share receipt preview for Scan and Upload claims with Confirm before upload.",
     "mandatory":  false
 }
