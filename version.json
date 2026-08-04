@@ -1,9 +1,9 @@
 {
-    "versionCode":  210,
-    "versionName":  "2.0.10",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.10/sierra-v2-2.0.10.apk",
-    "sha256":  "d070d61e19817b90e134c1e20d7857428c74c85eec16814f75acaf2ae8a96b40",
+    "versionCode":  211,
+    "versionName":  "2.0.11",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.11/sierra-v2-2.0.11.apk",
+    "sha256":  "5c6ae2e5d6ea5b5950297a9581fb3368bfc3e5d7cf69f30d9f007f8105149157",
     "minSupportedVersionCode":  1,
-    "notes":  "Share receipt preview for Scan and Upload claims with Confirm before upload.",
+    "notes":  "Search transactions by exact amount from the List tab.",
     "mandatory":  false
 }
