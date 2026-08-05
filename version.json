@@ -1,9 +1,9 @@
 {
-    "versionCode":  211,
-    "versionName":  "2.0.11",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.11/sierra-v2-2.0.11.apk",
-    "sha256":  "5c6ae2e5d6ea5b5950297a9581fb3368bfc3e5d7cf69f30d9f007f8105149157",
+    "versionCode":  212,
+    "versionName":  "2.0.12",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.12/sierra-v2-2.0.12.apk",
+    "sha256":  "0484943b50c3b27b447e12f5f8806e35cb218efc08d71016c5a72fb6e5939d51",
     "minSupportedVersionCode":  1,
-    "notes":  "Search transactions by exact amount from the List tab.",
+    "notes":  "Require claim description before submit; Scan and Upload claim buttons side by side.",
     "mandatory":  false
 }
