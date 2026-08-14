@@ -1,9 +1,9 @@
 {
-    "versionCode":  212,
-    "versionName":  "2.0.12",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.12/sierra-v2-2.0.12.apk",
-    "sha256":  "0484943b50c3b27b447e12f5f8806e35cb218efc08d71016c5a72fb6e5939d51",
+    "versionCode":  213,
+    "versionName":  "2.0.13",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.13/sierra-v2-2.0.13.apk",
+    "sha256":  "b97a45c4436f3f8f2e219da87d2fbf6029d169eed9c1603024b5dd1886dd1680",
     "minSupportedVersionCode":  1,
-    "notes":  "Require claim description before submit; Scan and Upload claim buttons side by side.",
+    "notes":  "Claim description tiles with recent-first sorting; more expense descriptions; elapsed time on load and claim toasts.",
     "mandatory":  false
 }
