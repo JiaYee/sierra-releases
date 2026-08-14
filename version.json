@@ -1,9 +1,9 @@
 {
-    "versionCode":  214,
-    "versionName":  "2.0.14",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.14/sierra-v2-2.0.14.apk",
-    "sha256":  "d6af06c9b24b7315f2c28e9d516e6cbaa576750cfb2232e8ee204707de434f4b",
+    "versionCode":  215,
+    "versionName":  "2.0.15",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.15/sierra-v2-2.0.15.apk",
+    "sha256":  "1469a477410b3790b826cfdae8b33d1f7fd2d2d469b4f50bbc0e9356f534971e",
     "minSupportedVersionCode":  1,
-    "notes":  "Scrollable claim description tiles so longer lists stay usable.",
+    "notes":  "Claim description search and tighter tile layout in the claim sheet.",
     "mandatory":  false
 }
