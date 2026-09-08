@@ -1,9 +1,9 @@
 {
-    "versionCode":  215,
-    "versionName":  "2.0.15",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.15/sierra-v2-2.0.15.apk",
-    "sha256":  "1469a477410b3790b826cfdae8b33d1f7fd2d2d469b4f50bbc0e9356f534971e",
+    "versionCode":  216,
+    "versionName":  "2.0.16",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.16/sierra-v2-2.0.16.apk",
+    "sha256":  "551e075573464e443f140a6c1a5e1616b8e824a18218e73487098eec762e60d7",
     "minSupportedVersionCode":  1,
-    "notes":  "Claim description search and tighter tile layout in the claim sheet.",
+    "notes":  "Add generate cash sales feature with PDF creation and merchant auto-fill.",
     "mandatory":  false
 }
