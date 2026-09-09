@@ -1,9 +1,9 @@
 {
-    "versionCode":  216,
-    "versionName":  "2.0.16",
-    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.16/sierra-v2-2.0.16.apk",
-    "sha256":  "551e075573464e443f140a6c1a5e1616b8e824a18218e73487098eec762e60d7",
+    "versionCode":  217,
+    "versionName":  "2.0.17",
+    "apkUrl":  "https://github.com/JiaYee/sierra-releases/releases/download/v2.0.17/sierra-v2-2.0.17.apk",
+    "sha256":  "ea1f060f73a96dd6a811b5b47944bacc4768233a0e87224437f4613a28f13c92",
     "minSupportedVersionCode":  1,
-    "notes":  "Add generate cash sales feature with PDF creation and merchant auto-fill.",
+    "notes":  "Add haptic feedback when pressing number pad keys.",
     "mandatory":  false
 }
